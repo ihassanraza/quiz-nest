@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Which planet is often referred to as the 'Red Planet'?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 2,
+        "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+        "options": [
+            "F. Scott Fitzgerald",
+            "Harper Lee",
+            "J.D. Salinger",
+            "Mark Twain"
+        ],
+        "answer": "Harper Lee"
+    },
+    {
+        "id": 3,
+        "question": "What is the chemical symbol for the element oxygen?",
+        "options": [
+            "O",
+            "Ox",
+            "Oc",
+            "Oxg"
+        ],
+        "answer": "O"
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is the largest mammal on Earth?",
+        "options": [
+            "Elephant",
+            "Giraffe",
+            "Blue Whale",
+            "Hippopotamus"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "id": 5,
+        "question": "What is the capital city of Japan?",
+        "options": [
+            "Beijing",
+            "Tokyo",
+            "Seoul",
+            "Bangkok"
+        ],
+        "answer": "Tokyo"
+    },
+    {
+        "id": 6,
+        "question": "Who is the author of the 'Harry Potter' book series?",
+        "options": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "George Orwell",
+            "Jane Austen"
+        ],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "id": 7,
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Heart",
+            "Brain",
+            "Skin",
+            "Liver"
+        ],
+        "answer": "Skin"
+    },
+    {
+        "id": 8,
+        "question": "Which gas do plants primarily absorb from the atmosphere during photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "id": 9,
+        "question": "In which year did Christopher Columbus first arrive in the Americas?",
+        "options": [
+            "1492",
+            "1776",
+            "1519",
+            "1620"
+        ],
+        "answer": "1492"
+    },
+    {
+        "id": 10,
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Heart",
+            "Brain",
+            "Skin",
+            "Liver"
+        ],
+        "answer": "Skin"
+    }
+]
